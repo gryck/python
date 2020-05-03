@@ -4,3 +4,4 @@ All done. Ready to merge second_feature to master.
 Before making the stash on secondFile.
 After commiting only firstFile, and making stash pop.
 After merging master on second branch, and performing one commit and push.
+Last commit before merging second_branch on master
